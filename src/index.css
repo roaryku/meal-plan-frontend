@@ -1,0 +1,42 @@
+body {
+  background: url('https://images.unsplash.com/photo-1543353071-873f17a7a088?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGhlYWx0aHklMjBmb29kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60');
+  background-size: cover;
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+  }
+  
+  h1 {
+  font-family: 'Gloria Hallelujah', cursive;
+  }
+  
+  input {
+  display: block;
+  width: 100%;
+  border: none;
+  color: white;
+  font-size: 20px;
+  background: #313133;
+  padding: 20px;
+  font-family: 'Gloria Hallelujah', cursive;
+  margin-bottom: 20px;
+  }
+  
+  button {
+  padding: 20px 50px 20px 70px;
+  background-color: #024d3d;
+  color: white;
+  font-size: 20px;
+  cursor: pointer;
+  font-family: 'Gloria Hallelujah', cursive;
+  }
+  
+  p {
+  max-width: 100%;
+  background: beige;
+  margin-top: 20px;
+  font-family: 'Gloria Hallelujah', cursive;
+  width: 600px;
+  font-size: 20px;
+  
+  }
